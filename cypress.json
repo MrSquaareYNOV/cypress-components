@@ -1,5 +1,6 @@
 {
   "ignoreTestFiles": "**/examples/*",
   "viewPortWidth": 1920,
-  "viewPortHeight": 1080
+  "viewPortHeight": 1080,
+  "video": false
 }
