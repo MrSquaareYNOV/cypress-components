@@ -1,0 +1,10 @@
+# Node
+node_modules/
+
+# Cypress
+cypress/videos/
+cypress/screenshots/
+
+# IDEs
+.idea/
+.vscode/
