@@ -1,0 +1,17 @@
+{
+  "name": "cypress-components",
+  "version": "1.0.0",
+  "description": "- M1 DEVMLIOT Bonnet Guillaume",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrSquaare/cypress-components.git"
+  },
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "typescript": "^4.6.4"
+  }
+}
